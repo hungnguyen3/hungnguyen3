@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## I'm a CPSC student, developer 😆!
 - 🎓 Computer engineering student
 - 💻 self-taught web developer
@@ -31,7 +29,7 @@
 
 
 <br />
-
+<br />
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hungnguyen3&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=prs,issues,contribs" />
 
 
