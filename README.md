@@ -8,8 +8,6 @@
 - 🥅 2021 goal is to become a web developing intern 
 
 <details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hungnguyen3&show_icons=true&hide_border=true" />
+  <img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hungnguyen3&show_icons=true&hide_border=true" />
 </details>
 
