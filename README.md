@@ -7,7 +7,7 @@
 - 🔥  skilled coder wannabe
 - 🥅 2021 goal is to become a web developing intern 
 
-<details>
-  <img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hungnguyen3&show_icons=true&hide_border=true" />
-</details>
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hungnguyen3&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=prs,issues,contribs" />
+
 
