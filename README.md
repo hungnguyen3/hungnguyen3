@@ -28,4 +28,4 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
-![](https://github.com/hungnguyen3/hungnguyen3/blob/master/original.gif) | <img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?  username=hungnguyen3&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=prs,issues,contribs" />
+![](https://github.com/hungnguyen3/hungnguyen3/blob/master/original.gif | width = 100) | <img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hungnguyen3&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=prs,issues,contribs" />
