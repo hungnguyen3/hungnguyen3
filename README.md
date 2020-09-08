@@ -32,7 +32,7 @@
 
 <div>
 
-<img align="left src="https://github.com/hungnguyen3/hungnguyen3/blob/master/original.gif" width="40" height="40" />
+![](https://github.com/hungnguyen3/hungnguyen3/blob/master/original.gif)
 
 <img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hungnguyen3&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=prs,issues,contribs" />
 
