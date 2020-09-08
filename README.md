@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## I'm a CPSC student, developer 😆!
 - 🎓 Computer engineering student
 - 💻 self-taught web developer
