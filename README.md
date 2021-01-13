@@ -1,10 +1,10 @@
 ## I'm a CPSC student, developer 😆!
 
 - 🎓 Computer engineering student
-- 💻 self-taught web developer
-- 🌱 I’m currently learning React.js, GraphQL, PostgreSQL and MikroORM
-- 🔥 skilled coder wannabe
-- 🥅 2021 goal is to become a web developing intern
+- 💻 Tools I use:
+    - JavaScript, TypeScript, Java, C/ C++, Python, C#, Verilog
+    - React, React Native, Node.js, MySQL, MongoDB
+- 🥅 looking for software engineering internship for 2021 summer
 
 ### Connect with me:
 
