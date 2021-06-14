@@ -2,9 +2,11 @@
 
 - 🎓 Computer engineering student
 - 💻 Tools I use:
-    - JavaScript, TypeScript, Java, C/ C++, Python, C#, Verilog
+    - JavaScript, TypeScript, Java, C/C++, Python, C#, Verilog
     - React, React Native, Node.js, MySQL, MongoDB
-- 🥅 looking for software engineering internship for 2021 summer
+- 💼 Experience:
+    - Vecima Networks Inc, Software Quality Assurance Developer (May 2021 - Present)
+    - DYNE Technologies Inc, Fullstack Software Engineer (May 2021 - Present)
 
 ### Connect with me:
 
@@ -12,7 +14,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://hungnguyen3.github.io
-[linkedin]: https://www.linkedin.com/in/hung-nguyen-2b044119a/r
+[linkedin]: https://www.linkedin.com/in/hung-nguyen-se/
 
 <br />
 
@@ -31,4 +33,10 @@
 <br />
 <br />
 
-<img align = "left" src="https://github.com/hungnguyen3/hungnguyen3/blob/master/original.gif" width="260"><img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hungnguyen3&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=issues,contribs" />
+<a href="https://github.com/hungnguyen3/hungnguyen3/blob/master/original.gif">
+  <img align="left" src="https://github.com/hungnguyen3/hungnguyen3/blob/master/original.gif" height=149 />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hungnguyen3&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=issues,contribs" />
+</a>
