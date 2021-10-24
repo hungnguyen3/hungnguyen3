@@ -1,12 +1,13 @@
-## I'm a CPSC student, developer 😆!
+## Hi👋, I'm Hung Nguyen😆
 
 - 🎓 Computer engineering student
 - 💻 Tools I use:
-    - JavaScript, TypeScript, Java, C/C++, Python, C#, Verilog
+    - JavaScript, TypeScript, Java, C/C++, Python, C#, SQL, Verilog
     - React, React Native, Node.js, MySQL, MongoDB
 - 💼 Experience:
-    - Vecima Networks Inc, Software Quality Assurance Developer (May 2021 - Present)
-    - DYNE Technologies Inc, Fullstack Software Engineer (May 2021 - Present)
+    - Copperleaf Technologies Inc, Software Developer (Jan 2022 - August 2022)
+    - Vecima Networks Inc, Software Quality Assurance Developer (May 2021 - Dec 2021)
+    - DYNE Technologies Inc, Fullstack Software Developer (May 2021 - Present)
 
 ### Connect with me:
 
@@ -34,9 +35,9 @@
 <br />
 
 <a href="https://github.com/hungnguyen3/hungnguyen3/blob/master/original.gif">
-  <img align="left" src="https://github.com/hungnguyen3/hungnguyen3/blob/master/original.gif" height=149 />
+  <img align="left" src="https://github.com/hungnguyen3/hungnguyen3/blob/master/original.gif" height=190 />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hungnguyen3&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=issues,contribs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hungnguyen3&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 </a>
