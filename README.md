@@ -35,7 +35,7 @@
 <br />
 
 <a href="https://github.com/hungnguyen3/hungnguyen3/blob/master/original.gif">
-  <img align="left" src="https://github.com/hungnguyen3/hungnguyen3/blob/master/orignal.jpeg" height=190 />
+  <img align="left" src="https://github.com/hungnguyen3/hungnguyen3/blob/master/original.jpeg" height=190 />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
