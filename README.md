@@ -1,13 +1,13 @@
-## Hi👋, I'm Hung Nguyen😆
+## Hi👋, I'm an adventurous cat🐈
 
 - 🎓 Computer engineering student
 - 💻 Tools I use:
-    - JavaScript, TypeScript, Java, C/C++, Python, C#, SQL, Verilog
-    - React, React Native, Node.js, MySQL, MongoDB
+  - JavaScript, TypeScript, Java, C/C++, Python, C#, SQL, Verilog
+  - React, React Native, Node.js, MySQL, MongoDB
 - 💼 Experience:
-    - Copperleaf Technologies Inc, Software Developer (Jan 2022 - August 2022)
-    - Vecima Networks Inc, Software Quality Assurance Developer (May 2021 - Dec 2021)
-    - DYNE Technologies Inc, Fullstack Software Developer (May 2021 - Present)
+  - Copperleaf Technologies Inc, Software Developer (Jan 2022 - August 2022)
+  - Vecima Networks Inc, Software Quality Assurance Developer (May 2021 - Dec 2021)
+  - DYNE Technologies Inc, Fullstack Software Developer (May 2021 - Present)
 
 ### Connect with me:
 
@@ -35,7 +35,7 @@
 <br />
 
 <a href="https://github.com/hungnguyen3/hungnguyen3/blob/master/original.gif">
-  <img align="left" src="https://github.com/hungnguyen3/hungnguyen3/blob/master/original.gif" height=190 />
+  <img align="left" src="https://github.com/hungnguyen3/hungnguyen3/blob/master/orignal.jpeg" height=190 />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
