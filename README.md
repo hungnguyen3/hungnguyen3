@@ -1,20 +1,21 @@
 ## Hi👋, I'm an adventurous cat🐈
 
-- 🎓 Computer engineering student
+- 🎓 Computer engineering student at UBC
 - 💻 Tools I use:
-  - JavaScript, TypeScript, Java, C/C++, Python, C#, SQL, Verilog
-  - React, React Native, Node.js, MySQL, MongoDB
+  - TypeScript, JavaScript, SQL, Java, C/C++, Python, C#, Verilog
+  - React, Angular, Node.js, GraphQL, PostgreSQL, MySQL, MongoDB, React Native
 - 💼 Experience:
-  - Copperleaf Technologies Inc, Software Developer (Jan 2022 - August 2022)
-  - Vecima Networks Inc, Software Quality Assurance Developer (May 2021 - Dec 2021)
-  - DYNE Technologies Inc, Fullstack Software Developer (May 2021 - Present)
+  - Copperleaf Technologies Inc, Software Developer Co-op (Jan 2022 - August 2022)
+  - Vecima Networks Inc, Software Quality Assurance Developer Co-op (May 2021 - Dec 2021)
+  - DYNE Technologies Inc, Fullstack Software Developer (May 2021 - Feb 2022)
+  - UBC Launch Pad, Software Developer (September 2021 - Present)
 
 ### Connect with me:
 
 [<img align="left" alt="hungnguyen3.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: https://hungnguyen3.github.io
+[website]: https://adventurous-hachi.com
 [linkedin]: https://www.linkedin.com/in/hung-nguyen-se/
 
 <br />
