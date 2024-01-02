@@ -1,18 +1,20 @@
-## Hi👋, I'm an adventurous cat🐈
+## Hi👋, I'm software engineer with an adventurous cat🐈
 
-- 🎓 Computer engineering student at UBC
+- 🎓 Bachelor of Computer Engineering at [University of British Columbia](https://www.ubc.ca/)
 - 💻 Tools I use:
-  - TypeScript, JavaScript, SQL, Java, C/C++, Python, C#, Verilog
-  - React, Angular, Node.js, GraphQL, PostgreSQL, MySQL, MongoDB, React Native
+  - Java, TypeScript, JavaScript, C#, SQL, YAML, C/C++, Python, Verilog
+  - Spring Boot, React, Angular, Node.js, GraphQL, PostgreSQL, MySQL, MongoDB, React Native
+  - Docker, Kubernetes, AWS, Unix
 - 💼 Experience:
-  - Copperleaf Technologies Inc, Software Developer Co-op (Jan 2022 - August 2022)
-  - Vecima Networks Inc, Software Quality Assurance Developer Co-op (May 2021 - Dec 2021)
-  - DYNE Technologies Inc, Fullstack Software Developer (May 2021 - Feb 2022)
-  - UBC Launch Pad, Software Developer (September 2021 - Present)
+  - SAP, Software Engineer Intern (Sep 2023 - Present)
+  - Copperleaf Technologies, Software Engineer Intern (Jan 2022 - August 2022)
+  - DYNE Technologies, Software Engineer Intern (Sep 2021 - Dec 2021)
+  - Vecima Networks, Software Quality Engineer Intern (May 2021 - Aug 2021)
+  - UBC Launch Pad, Software Engineer (September 2021 - Present)
 
 ### Connect with me:
 
-[<img align="left" alt="hungnguyen3.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://adventurous-hachi.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://adventurous-hachi.com
@@ -20,21 +22,7 @@
 
 <br />
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
-
+### My Cat:
 <a href="https://github.com/hungnguyen3/hungnguyen3/blob/master/original.gif">
   <img align="left" src="https://github.com/hungnguyen3/hungnguyen3/blob/master/original.jpeg" height=190 />
 </a>
