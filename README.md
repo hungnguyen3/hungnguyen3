@@ -2,11 +2,11 @@
 
 - 🎓 Bachelor of Computer Engineering at [University of British Columbia](https://www.ubc.ca/)
 - 💻 Tools I use:
-  - Java, TypeScript, JavaScript, C#, Go, SQL, YAML, C/C++, Python, Verilog
-  - Spring Boot, React, Angular, Node.js, GraphQL, PostgreSQL, MySQL, MongoDB, React Native
+  - Java, TypeScript, SQL
+  - Spring Boot, React, Angular, MySQL
   - Docker, Kubernetes, AWS, Linux
 - 💼 Experience:
-  - SAP, Software Engineer Intern (Sep 2023 - Present)
+  - SAP, Software Engineer (Sep 2023 - Present)
   - Copperleaf Technologies, Software Engineer Intern (Jan 2022 - August 2022)
   - DYNE Technologies, Software Engineer Intern (Sep 2021 - Dec 2021)
   - Vecima Networks, Software Quality Engineer Intern (Jan 2021 - Aug 2021)
